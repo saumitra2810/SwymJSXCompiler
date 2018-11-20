@@ -13,12 +13,12 @@ Here's how you can create a new component -
 Add a new file in the jsx folder and write the JSX markup for it like so - 
 
 ```
-    function SwymNotification(props, getHandler){
-      return (
-        <img attrs={{ src: props.product.imageurl }} />
-        <h2>{props.product.title}</h2>
-      )    
-    }
+function SwymNotification(props, getHandler){
+  return (
+    <img attrs={{ src: props.product.imageurl }} />
+    <h2>{props.product.title}</h2>
+  )    
+}
 ```
 
 **Step 2**
