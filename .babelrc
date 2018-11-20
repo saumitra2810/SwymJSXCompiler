@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["transform-react-jsx", {
+      "pragma": "SwymUiCore.createSwymElement"
+    }],
+    ["@babel/plugin-proposal-object-rest-spread"]
+  ],
+  "presets": ["@babel/env"]
+}
