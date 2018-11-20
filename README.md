@@ -1,7 +1,7 @@
 # SwymJSXCompiler
 Setup code that can be used to create and override Swym UI components
 
-# Setup
+## Setup
 
 You will need npm and Node.JS installed to setup this project. Clone this repository and run ```npm install```. This will install all dependencies on your machine. 
 
